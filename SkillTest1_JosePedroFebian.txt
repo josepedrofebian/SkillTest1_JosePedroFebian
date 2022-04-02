@@ -1,0 +1,4 @@
+Nama : Jose Pedro Febian
+Umur : 23 Tahun
+Stack : BackEnd
+Bahasa Pemrograman : JavaScript
